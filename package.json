@@ -1,0 +1,36 @@
+{
+  "name": "angular-error-stack",
+  "version": "0.0.1",
+  "description": "Handle Angular events using an error middleware stack similar to express",
+  "main": "dist/angular-error-stack.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matmar10/angular-error-stack.git"
+  },
+  "keywords": [
+    "angular",
+    "angular1",
+    "errors",
+    "error",
+    "stack",
+    "express"
+  ],
+  "author": "Matthew J. Martin <matthew.mar10@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/matmar10/angular-error-stack/issues"
+  },
+  "homepage": "https://github.com/matmar10/angular-error-stack#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-minify": "^1.0.0",
+    "wrench": "^1.5.9"
+  }
+}
