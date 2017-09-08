@@ -6,7 +6,7 @@
     "Matthew J. Martin <matthew.mar10@gmail.com>"
   ],
   "description": "Handle Angular events using an error middleware stack similar to express",
-  "main": "dist/angular-error-stack.min.js",
+  "main": "dist/angular-error-stack.js",
   "keywords": [
     "angular",
     "angular1",
