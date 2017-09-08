@@ -1,6 +1,6 @@
 {
   "name": "angular-error-stack",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Handle Angular events using an error middleware stack similar to express",
   "main": "dist/angular-error-stack.js",
   "directories": {
